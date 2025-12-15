@@ -1,71 +1,33 @@
-# spotify-song-hit-analysis
-🎵 Spotify Song Hit Prediction
-📌 Project Overview
+# Spotify Song Hit Analysis
 
-This project analyzes Spotify song data to identify the key factors that make a song a "hit".
-Using machine learning models, songs are classified as Hit or Non-Hit based on their audio features.
+## Project Objective
+The objective of this project is to analyze Spotify song features and identify the key factors that contribute to a song becoming a hit. The analysis focuses on understanding relationships between audio features and song popularity to derive actionable insights.
 
-📊 Dataset
+## Dataset
+The dataset consists of Spotify track-level data, including audio features such as danceability, energy, loudness, acousticness, and popularity scores.
 
-Over 26,000 songs
+## Methodology
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature relationship analysis
+- Visualization of key patterns and insights
 
-Audio features such as:
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
 
-Danceability
+## Key Insights
+- Certain audio features such as energy, loudness, and danceability show stronger relationships with song popularity.
+- Hit songs tend to follow identifiable patterns in terms of audio characteristics.
+- Data-driven insights can support content strategy and music recommendation decisions.
 
-Energy
+## Presentation
+- Google Slides: https://bit.ly/spotify-hit-analysis
 
-Loudness
-
-Instrumentalness
-
-Duration
-
-🛠️ Methods
-
-Data Cleaning & Preprocessing
-
-Exploratory Data Analysis (EDA)
-
-Machine Learning Models:
-
-Logistic Regression
-
-Random Forest
-
-📈 Results
-
-Best Model: Random Forest
-
-Accuracy: 83.33%
-
-F1-Score: 0.81
-
-Key factors influencing hit potential:
-
-Loudness
-
-Danceability
-
-Vocal presence
-
-🧠 Tools & Technologies
-
-Python
-
-Pandas, NumPy
-
-Scikit-learn
-
-Matplotlib / Seaborn
-
-Google Colab
-
-📁 Notebook
-
-The full analysis notebook is available in this repository.
 ## Presentation
 
-- Google Drive : https://bit.ly/48SubBx
+- Google Slides : https://bit.ly/48SubBx
 
 
