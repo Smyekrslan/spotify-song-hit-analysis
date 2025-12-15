@@ -64,3 +64,8 @@ Google Colab
 📁 Notebook
 
 The full analysis notebook is available in this repository.
+## Presentation
+
+- Google Drive : https://bit.ly/48SubBx
+
+Add presentation short link
