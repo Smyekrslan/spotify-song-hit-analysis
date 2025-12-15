@@ -24,9 +24,6 @@ The dataset consists of Spotify track-level data, including audio features such 
 - Data-driven insights can support content strategy and music recommendation decisions.
 
 ## Presentation
-- Google Slides: https://bit.ly/spotify-hit-analysis
-
-## Presentation
 
 - Google Slides : https://bit.ly/48SubBx
 
